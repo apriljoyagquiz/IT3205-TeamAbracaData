@@ -47,3 +47,5 @@ Our group is working on this project by using our devices to obtain information 
 
 
 #### Expected Output
+This project's goal is to collect factual data that will be used to gain a better understanding of Filipino workers working abroad. This project aims to improve data understanding and interpretation by analyzing the significance of Filipino workers abroad through better visualization of concepts and ideas that are easier to grasp and understand.
+
