@@ -7,15 +7,15 @@ Final Project Documents for BAT 404 - Analytics Techniques and Tools
 
 #### Problem Statement
 
-####Decreasing Professional Worker in a Community.
+#### Decreasing Professional Worker in a Community.
 Since Filipino workers prefer to go overseas because of better salary opportunities, our country is losing a growing number of professional and hardworking individuals, which means a country needs skilled workers who will contribute to the improvement of society and the growth of the economy.
 
 
-####Low Domestic Wages and Wage Differentials. 
+#### Low Domestic Wages and Wage Differentials. 
 Most international migrants in Asia are motivated by the prospect of earning higher wages overseas (Smart et al. 1986). As long as potential foreign earnings exceed local wages (after subtracting costs of movement and job placement), workers are likely to respond to higher foreign wage rates by engaging in labour migration to one of the region’s core migrant-receiving countries (Abella, 1988). Low earning capacity and unemployment contribute to the widening income gap between the rich and the poor. The Philippines has one of the worst income disparity records in Asia where the rich are very rich and the poor are very poor.
 
 
-####The Philippine peso's value is falling. 
+#### The Philippine peso's value is falling. 
 It is ironic that as the volume of dollar remittances to the Philippines increases, the value of a dollar decreases. This is because increased dollar reserves cause the greenback's value to fall against the peso. Because salaries are paid in foreign currencies influenced by the dollar-peso exchange rate, the peso value of OFW salaries falls.
 #### Decreasing Professional Worker in a Community.  
 Since Filipino workers prefer to go overseas because of better salary opportunities, our country is losing a growing number of professional and hardworking individuals, which means a country needs skilled workers who will contribute to the improvement of society and the growth of the economy.
