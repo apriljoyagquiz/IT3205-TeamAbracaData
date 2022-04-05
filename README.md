@@ -12,6 +12,8 @@ A steady salary and additional employment perks are two advantages that an overs
 
 Domestic work is an essential but sometimes overlooked aspect of Filipino culture. The tradition of employing domestic assistance has long been a part of Filipino society, and it is still practiced today. Similar customs, such as emigrating in search of work and housing less well-off relatives in exchange for home assistance, are also socially acceptable and expected. Domestic help is available and affordable, allowing women in the middle and upper-income levels to leave their household responsibilities and enter the workforce, contributing to the country's economic progress.  On the other hand, domestic employment continues to be a hidden sector. The work is done behind closed doors, away from the reach of labor regulations and enforcement agencies. Domestic helpers are expected to labor continuously and for lengthy periods within families while becoming invisible. Domestic work is not considered a formal or informal occupation, and many people perceive it to be unskilled female labor. 
 
+With these aforementioned statements,  the researchers will conduct an Exploratory Data Analysis for Overseas Filipino Workers. Furthermore, the datasets provided by Philippine Statistics Authority will be utilized
+
 #### Problem Statement
 
 #### Decreasing Professional Worker in a Community.
