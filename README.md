@@ -36,7 +36,7 @@ Since Filipino workers prefer to go overseas because of better salary opportunit
 #### Significance of the Proposed Project
 
 #### To the Department of Labor and Employment. 
-This study will assist the Department of Labor and Employment (DOLE) in identifying and analyzing the employment needs of a country so that Filipino workers would choose to work for it. It would also support them in improving the overall quality of their governance, allowing them to adopt new ideas. These will help connect people and the government to facilitate communication, which will stand to gain the country's economy.
+This study will assist the Department of Labor and Employment (DOLE) in identifying and analyzing the employment needs of a country so that Filipino workers would choose to work for it. It would also support them in improving the overall quality of their governance, allowing them to adopt new ideas. These will help to connect people and the government to facilitate communication, which will stand to gain the country's economy.
 
 #### To the Future Researchers. 
 The study's findings will be helpful to both existing and future researchers. It will be beneficial to researchers who want to organize better and execute their research, such as this one. This study was most likely one of the foundations for developing a new theory for data analysis.
