@@ -22,7 +22,7 @@ Since Filipino workers prefer to go overseas because of better salary opportunit
 
 
 #### Low Domestic Wages and Wage Differentials. 
-Most international migrants in Asia are motivated by the prospect of earning higher wages overseas (Smart et al. 1986). As long as potential foreign earnings exceed local wages (after subtracting costs of movement and job placement), workers are likely to respond to higher foreign wage rates by engaging in labour migration to one of the region’s core migrant-receiving countries (Abella, 1988). Low earning capacity and unemployment contribute to the widening income gap between the rich and the poor. The Philippines has one of the worst income disparity records in Asia where the rich are very rich and the poor are very poor.
+Most international migrants in Asia are motivated by the prospect of earning higher wages overseas (Smart et al. 1986). As long as potential foreign earnings exceed local wages (after subtracting costs of movement and job placement), workers are likely to respond to higher foreign wage rates by engaging in labour migration to one of the region’s core migrant-receiving countries (Abella, 1988). Low earning capacity and unemployment contribute to the widening income gap between the rich and the poor. The Philippines has one of Asia's worst income disparity records, with the rich being extremely wealthy and the poor being extremely impoverished.
 
 
 #### The Philippine peso's value is falling. 
