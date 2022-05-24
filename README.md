@@ -54,8 +54,8 @@ This project aims to collect factual data to understand better the impact of ove
 
 ## Sustainable Development Goal
 #### No Poverty
-Eradicating poverty is not a task of charity, it’s an act of justice and the key to unlocking an enormous human potential. Still, nearly half of the world’s population lives in poverty, and lack of food and clean water is killing thousands every single day of the year. Together, we can feed the hungry, wipe out disease and give everyone in the world a chance to prosper and live a productive and rich life.
+Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together.
 
 
 #### Decent Work and Economic Growth
-Economic growth should be a positive force for the whole planet.This is why we must make sure that financial progress creates decent and fulfilling jobs while not harming the environment. We must protect labour rights and once and for all put a stop to modern slavery and child labour. If we promote job creation with expanded access to banking and financial services, we can make sure that everybody gets the benefits of entrepreneurship and innovation.
+Economic growth should have been a positive factor for the entire planet. As a result, we must ensure that financial progress creates decent and fulfilling jobs while not negatively impacting the environment. We must protect labor rights and put an end to modern slavery and child labor once and for all. We can ensure that everyone benefits from entrepreneurship and innovation if we encourage job creation and expand access to banking and financial services.
