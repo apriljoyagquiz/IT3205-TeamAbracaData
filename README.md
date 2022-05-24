@@ -54,7 +54,10 @@ This project aims to collect factual data to understand better the impact of ove
 
 ## Sustainable Development Goal
 #### No Poverty
-<img src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png"  width="40" height="40" alt="@balupton" style="max-width:100%  />
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png">
+</p>
 
 Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together.
 
