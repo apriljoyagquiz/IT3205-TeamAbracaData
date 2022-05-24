@@ -53,7 +53,7 @@ Our group is working on this project by obtaining information from the internet 
 This project aims to collect factual data to understand better the impact of overseas Filipino workers on our country's economic remittances. This project is a plan to improve the interpretation and understanding of the data collected through better visualization of concepts and ideas that are easier to grasp and understand by analyzing the significant impact on the country's economic development by alleviating poverty and ensuring a consistent cash flow and circulation. It will also provide a clearer picture of the potential exploratory analysis for OFWs in the future and determine whether or not it would be beneficial to help eliminate the issues mentioned above. Based on the data gathered, the researchers will develop a policy and advocate for an action plan that includes all of the benefits available to OFWs in times of need. The data gathered and tested will determine whether or not the country's convention and policy against economic remittances should be revised and implemented. Regardless of the dataset analysis outcome, awareness of policies, norms, and recommendations will be delivered and communicated to the entire nation to assess and evaluate what action is needed next. It assists the team in developing just government strategies that meet the needs of every Filipino overseas worker. This initiative makes the project's conclusion, summary, and recommendation available to all, especially those most concerned about the country's future economic remittance.
 
 ## Sustainable Development Goal
-#### No Poverty
+### No Poverty
 <p align="center">
   <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png">
 </p>
@@ -61,7 +61,7 @@ This project aims to collect factual data to understand better the impact of ove
 Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together.
 
 
-#### Decent Work and Economic Growth
+### Decent Work and Economic Growth
 <p align="center">
   <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/decentwork.png">
 </p>
