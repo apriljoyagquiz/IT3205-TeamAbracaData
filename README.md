@@ -54,15 +54,15 @@ This project aims to collect factual data to understand better the impact of ove
 
 ## Sustainable Development Goal
 #### No Poverty
-
 <p align="center">
-  <img width="460" height="300" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png">
+  <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png">
 </p>
 
 Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together.
 
 
 #### Decent Work and Economic Growth
-<img src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/decentwork.png" width="190" height="190" />
-
+<p align="center">
+  <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/decentwork.png">
+</p>
 Economic growth should have been a positive factor for the entire planet. As a result, we must ensure that financial progress creates decent and fulfilling jobs while not negatively impacting the environment. We must protect labor rights and put an end to modern slavery and child labor once and for all. We can ensure that everyone benefits from entrepreneurship and innovation if we encourage job creation and expand access to banking and financial services.
