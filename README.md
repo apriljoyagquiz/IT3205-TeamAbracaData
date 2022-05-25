@@ -3,7 +3,7 @@ Final Project Documents for BAT 404 - Analytics Techniques and Tools
 
 ## Project Title: Exploratory Data Analysis for Overseas Filipino Workers
 
-#### Introduction
+### Introduction
 
 "Modern Day Heroes" is a title given for all Overseas Filipino Workers (OFWs) worldwide. They contribute to our country's economic progress through remittances. More importantly, they make personal sacrifices to provide a good living for their families despite homesickness. But working as an Overseas Filipino Worker is not always as straightforward as it appears. The truth is that they face a variety of problems in addition to abandoning their family in the Philippines to pursue a brighter future. Communication, finances, and the difficulties they face in their personal and professional lives are just a few of their issues.
 
@@ -17,7 +17,7 @@ Domestic work is an essential but sometimes overlooked aspect of Filipino cultur
 
 The researchers will conduct an Exploratory Data Analysis for Overseas Filipino Workers with these statements mentioned above. Furthermore, the datasets provided by Philippine Statistics Authority will be utilized.
 
-#### Problem Statement
+### Problem Statement
 
 #### Decreasing Professional Worker in a Community.
 Since Filipino workers prefer to go overseas because of better salary opportunities, our country is losing a growing number of professional and hardworking individuals, which means a country needs skilled workers who will contribute to the improvement of society and the growth of the economy.
@@ -33,7 +33,7 @@ It is ironic that as the volume of dollar remittances to the Philippines increas
 Since Filipino workers prefer to go overseas because of better salary opportunities, our country is losing a growing number of professional and hardworking individuals, which means a country needs skilled workers who will contribute to the improvement of society and the growth of the economy.
 
 
-#### Significance of the Proposed Project
+### Significance of the Proposed Project
 
 #### To the Department of Labor and Employment. 
 This study will assist the Department of Labor and Employment (DOLE) in identifying and analyzing the employment needs of a country so that Filipino workers would choose to work for it. It would also support them in improving the overall quality of their governance, allowing them to adopt new ideas. These will help to connect people and the government to facilitate communication, which will stand to gain the country's economy.
@@ -45,11 +45,11 @@ The study's findings will be helpful to both existing and future researchers. It
 This research will benefit both society and individuals since it will measure the statistics of Filipino workers who work for their families, allowing them to become more productive members of the community. It will assist citizens in becoming motivated to work, regardless of their gender, age, and status.
 
 
-#### Methods
+### Methods
 Our group is working on this project by obtaining information from the internet using our devices. We discussed how it could be done and completed properly. We all get along despite the fact that it is difficult to obtain accurate or trustworthy information. The information we gathered came from Filipino employees. According to the results of the 2019 Survey on Overseas Filipinos, the number of Overseas Filipino Workers (OFWs) who worked abroad at any time between April and September 2019 was estimated to be 2.2 million. Overseas Contract Workers (OCWs), or those with a pre-existing work contract, made up 96.8 percent of all OFWs during the time period in question. The rest 3.2 percent worked without a contract in another country. According to the most recent report, the number of overseas Filipino workers (OFWs), or Filipino workers who worked abroad between April and September 2020, is expected to be 1.77 million.
 
 
-#### Expected Output
+### Expected Output
 This project aims to collect factual data to understand better the impact of overseas Filipino workers on our country's economic remittances. This project is a plan to improve the interpretation and understanding of the data collected through better visualization of concepts and ideas that are easier to grasp and understand by analyzing the significant impact on the country's economic development by alleviating poverty and ensuring a consistent cash flow and circulation. It will also provide a clearer picture of the potential exploratory analysis for OFWs in the future and determine whether or not it would be beneficial to help eliminate the issues mentioned above. Based on the data gathered, the researchers will develop a policy and advocate for an action plan that includes all of the benefits available to OFWs in times of need. The data gathered and tested will determine whether or not the country's convention and policy against economic remittances should be revised and implemented. Regardless of the dataset analysis outcome, awareness of policies, norms, and recommendations will be delivered and communicated to the entire nation to assess and evaluate what action is needed next. It assists the team in developing just government strategies that meet the needs of every Filipino overseas worker. This initiative makes the project's conclusion, summary, and recommendation available to all, especially those most concerned about the country's future economic remittance.
 
 ## Sustainable Development Goal
