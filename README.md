@@ -1,4 +1,4 @@
-<img src="Datasets/coverphoto.png" width="1800" height="350">
+<img src="Datasets/coverphoto.png" width="1800" height="325">
 
 <h1 align="center"> Exploratory Data Analysis for Overseas Filipino Workers. </h1> 
 
