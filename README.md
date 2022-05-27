@@ -1,7 +1,6 @@
-# IT3205-TeamAbracaData
-Final Project Documents for BAT 404 - Analytics Techniques and Tools 
+<img src="Datasets/coverphoto.png" width="1800" height="350">
 
-## Project Title: Exploratory Data Analysis for Overseas Filipino Workers
+<h1 align="center"> Exploratory Data Analysis for Overseas Filipino Workers. </h1> 
 
 ### Introduction
 
