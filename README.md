@@ -30,9 +30,6 @@
 #### The Philippine peso's value is falling. 
 <p align = "justify"> It is ironic that as the volume of dollar remittances to the Philippines increases, the value of a dollar decreases. This is because increased dollar reserves cause the greenback's value to fall against the peso. Because salaries are paid in foreign currencies influenced by the dollar-peso exchange rate, the peso value of OFW salaries falls. </p>
 
-#### Decreasing Professional Worker in a Community.  
-Since Filipino workers prefer to go overseas because of better salary opportunities, our country is losing a growing number of professional and hardworking individuals, which means a country needs skilled workers who will contribute to the improvement of society and the growth of the economy. </p>
-
 
 ### Significance of the Proposed Project
 
