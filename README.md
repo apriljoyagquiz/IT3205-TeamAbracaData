@@ -55,6 +55,7 @@
 <p align="center">
   <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/NoPoverty.png">
 </p>
+<p align = "justify">SDG 1 seeks to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, especially the poorest and most vulnerable, has equal access to economic resources; basic services; property and land control; natural resources; and new technologies.</p>
 
 <p align = "justify"> Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together. </p>
 
@@ -63,4 +64,7 @@
 <p align="center">
   <img width="190" height="190" src="https://github.com/apriljoyagquiz/IT3205-TeamAbracaData/blob/main/Datasets/decentwork.png">
 </p>
+<p align = "justify">SDG 8 aims to promote inclusive and sustainable economic growth, as well as job opportunities and decent work for all. This entails maintaining economic growth per capita in line with national circumstances and achieving annual GDP growth of at least 7% in less-developed countries. Policies that encourage productive activities and the creation of decent jobs, as well as entrepreneurship and innovation, are also required.
+</p>
+
 <p align = "justify"> Economic growth should have been a positive factor for the entire planet. As a result, we must ensure that financial progress creates decent and fulfilling jobs while not negatively impacting the environment. We must protect labor rights and put an end to modern slavery and child labor once and for all. We can ensure that everyone benefits from entrepreneurship and innovation if we encourage job creation and expand access to banking and financial services. </p>
