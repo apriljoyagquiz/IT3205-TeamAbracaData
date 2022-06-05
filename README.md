@@ -57,7 +57,7 @@
 </p>
 <p align = "justify">SDG 1 seeks to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, especially the poorest and most vulnerable, has equal access to economic resources; basic services; property and land control; natural resources; and new technologies.</p>
 
-<p align = "justify"> Poverty eradication is not a charitable task; it is an act of justice and the key to unlocking enormous human potential. Despite this, nearly half of the world's population is impoverished, and a lack of food and clean water kills thousands every day of the year. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and rich life if we work together. </p>
+<p align = "justify"> Poverty eradication is not a charitable endeavor; it is an act of justice and the key to unlocking vast human potential. Despite this, nearly half of the world's population is impoverished, and thousands die daily due to a lack of food and safe drinking water. We can feed the hungry, eradicate disease, and give everyone in the world a chance to prosper and live a productive and prosperous life if we all work together. </p>
 
 
 ### Decent Work and Economic Growth
@@ -67,4 +67,4 @@
 <p align = "justify">SDG 8 aims to promote inclusive and sustainable economic growth, as well as job opportunities and decent work for all. This entails maintaining economic growth per capita in line with national circumstances and achieving annual GDP growth of at least 7% in less-developed countries. Policies that encourage productive activities and the creation of decent jobs, as well as entrepreneurship and innovation, are also required.
 </p>
 
-<p align = "justify"> Economic growth should have been a positive factor for the entire planet. As a result, we must ensure that financial progress creates decent and fulfilling jobs while not negatively impacting the environment. We must protect labor rights and put an end to modern slavery and child labor once and for all. We can ensure that everyone benefits from entrepreneurship and innovation if we encourage job creation and expand access to banking and financial services. </p>
+<p align = "justify"> Economic development should have benefited the entire planet. As a result, we must ensure that economic progress generates decent and fulfilling jobs while having no negative impact on the environment. We must defend workers' rights and end modern slavery and child labor. We can ensure that entrepreneurship and innovation benefit everyone by encouraging job creation and expanding access to banking and financial services. </p>
