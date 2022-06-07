@@ -68,3 +68,9 @@
 </p>
 
 <p align = "justify"> Economic development should have benefited the entire planet. As a result, we must ensure that economic progress generates decent and fulfilling jobs while having no negative impact on the environment. We must defend workers' rights and end modern slavery and child labor. We can ensure that entrepreneurship and innovation benefit everyone by encouraging job creation and expanding access to banking and financial services. </p>
+
+### Live Presentation
+Link: https://www.youtube.com/watch?v=1EZQ6dNVOU8
+
+### Final Presentation
+Link: 
